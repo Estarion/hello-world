@@ -3,3 +3,5 @@
 Hi humans!
 
 My name is Michał :)
+
+Bye
